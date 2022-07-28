@@ -8,8 +8,7 @@ import { AuthContext } from '../common/Context'
 import {BrowserRouter, Route, useParams} from "react-router-dom";
 import Button from '@mui/material/Button';
 import LogoutIcon from '@mui/icons-material/Logout';
-import { useNavigate } from "react-router-dom"; 
-import '../common/css/PlainCssSlider.css'
+import { useNavigate } from "react-router-dom";
 
 
 
